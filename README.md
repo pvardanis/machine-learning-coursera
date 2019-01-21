@@ -1,6 +1,8 @@
 # Machine Learning by Coursera
 Assignments for Machine Learning by Stanford University.
 
+**Note**: I share my code with others for learning purposes only.
+
 ## Week 3
 ### Programming Assignment: [Logistic Regression](https://github.com/pvardanis/machine-learning-coursera/tree/master/machine-learning-ex2/machine-learning-ex2)
 
