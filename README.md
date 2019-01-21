@@ -24,5 +24,4 @@ Assignments for Machine Learning by Stanford University.
 ## Week 9
 ### Programming Assignment: [Anomaly Detection and Recommender Systems](https://github.com/pvardanis/machine-learning-coursera/tree/master/machine-learning-ex8/machine-learning-ex8)
 
-**Note**: I share my code with others for learning purposes only.
 
