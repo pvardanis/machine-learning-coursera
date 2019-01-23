@@ -1,5 +1,5 @@
 # Machine Learning by Coursera
-Assignments for "Machine Learning" by Stanford University.
+Assignments for "Machine Learning" by Coursera.
 
 **Note**: I share my code with others for learning purposes only.
 
